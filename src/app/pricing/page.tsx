@@ -144,6 +144,7 @@ export default function Pricing () {
                             </ul>
                         </div>
 
+
                         {/* bot */}
                         <div className="flex justify-center items-center">
                             <button className="py-2 px-18 rounded-md text-sm font-bold transition-colors hover:cursor-pointer duration-200 border border-[#E5E7EB] hover:bg-gray-100">
