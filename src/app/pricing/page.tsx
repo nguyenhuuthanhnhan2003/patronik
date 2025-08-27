@@ -9,7 +9,7 @@ export default function Pricing () {
                 </div>
 
                 <div className=" pl-0 lg:pl-40 space-y-3 flex flex-col absolute inset-0 justify-center items-center lg:items-start py-136 lg:py-0">
-                    <h1 className="text-3xl lg:text-[60px] lg:w-2/3 font-['DM_Serif_Display',serif]">
+                    <h1 className="text-2xl text-center lg:text-[60px] lg:w-2/3 font-['DM_Serif_Display',serif]">
                         Choose the Perfect Plan for Your Fashion Journey
                     </h1>
                     <p className="px-10 lg:px-0 text-gray-500 text-[14px] lg:text-[20px] sm:text-base lg:text-xl leading-[150%] text-center md:text-left lg:text-left align-middle font-['SF_Pro_Display']">
