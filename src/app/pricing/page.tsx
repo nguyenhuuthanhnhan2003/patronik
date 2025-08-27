@@ -21,7 +21,7 @@ export default function Pricing () {
             </section>
 
             {/* packs */}
-            <section id="pack" className="py-24 px-[100px] bg-[#FAFAFA]" >
+            <section id="pack" className="flex flex-col px-10 py-24 lg:px-[100px] bg-[#FAFAFA]" >
                 <div className="flex justify-center items-center gap-4">
 
                     <span className="text-[18px] font-semibold">Monthly</span>
@@ -33,7 +33,7 @@ export default function Pricing () {
 
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 w-full px-16 py-16">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 w-full lg:px-16 py-16">
                     
                     {/* card1 */}
                     <div className="flex flex-col justify-between bg-white px-4 py-8 gap-40 rounded-[20px] shadow-sm">
